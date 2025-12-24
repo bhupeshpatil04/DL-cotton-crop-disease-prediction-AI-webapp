@@ -1,4 +1,4 @@
-🌱 Cotton Crop Disease Prediction Web Application
+🌱 Cotton Crop Disease Prediction AI Web Application
 
 This project is a Deep Learning–based web application designed to predict cotton crop diseases from leaf images. The application helps farmers and agricultural stakeholders identify diseases at an early stage and take proactive measures to prevent large-scale crop damage.
 
