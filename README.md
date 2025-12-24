@@ -20,9 +20,9 @@ Programming Language: Python
 
 Deep Learning: TensorFlow, Keras
 
-Web Framework: Flask
+Web Framework: Flask, Bootstrap
 
-Frontend: HTML, CSS
+Frontend: HTML5, CSS3, Js
 
 Model Type: Convolutional Neural Network (CNN)
 
