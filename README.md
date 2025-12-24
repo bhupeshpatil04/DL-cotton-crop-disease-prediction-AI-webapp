@@ -37,7 +37,7 @@ The model predicts the disease category
 Prediction results are displayed on the web interface
 
 🚀 Installation & Setup
-git clone https://github.com/bhupeshpatil04/DL_cotton_crop_disease_prediction_webapp.git 
+git clone https://github.com/bhupeshpatil04/DL_cotton_crop_disease_prediction_webapp.git
 cd DL_cotton_crop_disease_prediction_webapp
 pip install -r requirements.txt
 python app.py
