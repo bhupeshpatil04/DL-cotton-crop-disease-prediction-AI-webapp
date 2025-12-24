@@ -45,9 +45,3 @@ python app.py
 📊 Use Case
 
 This application assists farmers in early disease detection, reducing crop loss and improving agricultural productivity through timely intervention.
-
-
-👨‍💻 Author
-
-Bhupesh Patil
-B.Tech CSE | Deep Learning | Full-Stack Development
