@@ -32,7 +32,7 @@ User uploads an image of a cotton leaf
 
 Image is preprocessed and passed to the trained CNN model
 
-The model predicts the disease category
+The model predicts the Input Image is diseased or Healthly
 
 Prediction results are displayed on the web interface
 
